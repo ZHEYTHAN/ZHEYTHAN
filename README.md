@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**ZHEYTHAN/ZHEYTHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hola, Un gusto verte por aquí!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Me gusta la idea de entender que siempre hay cosas nuevas por aprender.
+- Algo fascinante de esto, es que el limite lo pones tú.
+
+
+
+## Mis estadísticas
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZHEYTHAN&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&card_width=500)](https://git.io/streak-stats)
+
