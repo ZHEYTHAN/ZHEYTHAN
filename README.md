@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 ## Hola, Un gusto verte por aquí!
 
 - Me gusta la idea de entender que siempre hay cosas nuevas por aprender.
